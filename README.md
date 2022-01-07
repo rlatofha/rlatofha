@@ -1,18 +1,53 @@
 ![header](https://capsule-render.vercel.app/api?text=Saerom%20Kim&height=200&type=Waving&color=gradient)
 ![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20Workspace&height=20&type=transparent&color=gradient&fontSize=20&fontColor=782099&animation=fadeIn)
 
-<h3 align = center>:mag_right:Tech Stack:mag:</h3>
-<h3 align = center> Techs that I've used at least once</h3>
+<h3 align = center>:star2:Tech Stack:star2:</h3>
+<h3 align = center> Stacks that I've used at least once</h3><br>
 
-<h3>:star2: Skils</h3>
+<h4 align = center> :headphones:Languages </h4>
   
-<h4> Languages & Frameworks </h4>
+  <div align = center>
   
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white&fontAlign=100)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white&fontAlign=100)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+  
+</div><br>
+
+<h4 align = center> :wrench:Development Tools </h4>
+
+<div align = center>
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-%23FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
+  
+  ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=flat-square&logo=Apache%20Tomcat&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
+
+</div><br>
+
+
+<h4 align = center> :octocat:Communication Tools </h4>
+
+<div align = center>
+
+  ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+
+</div><br>
 
 <!-- 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
