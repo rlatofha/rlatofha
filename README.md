@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Saerom%20Kim&height=200&type=Waving&color=gradient)
-![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20Workspace&height=20&type=transparent&color=gradient&fontSize=30&fontColor=782099&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20Workspace&height=50&type=transparent&color=gradient&fontSize=30&fontColor=782099&animation=fadeIn)
 
 <h2 align = center>:star2:Tech Stack:star2:</h2>
 <h2 align = center> Stacks that I've used at least once</h2><br>
