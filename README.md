@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?text=Saerom%20Kim&height=200&type=Waving&color=gradient)
-![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20Workspace&height=20&type=transparent&color=gradient&fontSize=20&fontColor=782099&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20Workspace&height=20&type=transparent&color=gradient&fontSize=30&fontColor=782099&animation=fadeIn)
 
-<h3 align = center>:star2:Tech Stack:star2:</h3>
-<h3 align = center> Stacks that I've used at least once</h3><br>
+<h2 align = center>:star2:Tech Stack:star2:</h2>
+<h2 align = center> Stacks that I've used at least once</h2><br>
 
-<h4 align = center> :headphones:Languages </h4>
+<h3 align = center> :headphones:Languages </h3>
   
   <div align = center>
   
@@ -18,7 +18,7 @@
   
 </div><br>
 
-<h4 align = center> :wrench:Development Tools </h4>
+<h3 align = center> :wrench:Development Tools </h3>
 
 <div align = center>
   
@@ -39,7 +39,7 @@
 </div><br>
 
 
-<h4 align = center> :octocat:Communication Tools </h4>
+<h3 align = center> :octocat:Communication Tools </h3>
 
 <div align = center>
 
