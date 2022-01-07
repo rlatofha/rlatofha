@@ -48,6 +48,14 @@
 
 </div><br>
 
+![header](https://capsule-render.vercel.app/api?text=Follow%20Me&height=50&type=transparent&color=gradient&fontSize=30&fontColor=2e2a5e&animation=fadeIn)
+
+<div align = center>
+
+  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+
+</div><br>
+
 <!-- 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
