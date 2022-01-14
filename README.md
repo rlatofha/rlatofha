@@ -52,7 +52,7 @@
 
 <div align = center>
 
-  :seedling:![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white&color=green&href=https://www.notion.so/0b8f1061cbb247019820b26434c178e6):seedling:
+  :seedling:[![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white&color=green)](https://www.notion.so/0b8f1061cbb247019820b26434c178e6):seedling:
 
 </div><br>
 
